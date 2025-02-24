@@ -1,5 +1,4 @@
 import shutil
-import psutil
 
 # Set thresholds
 DISK_THRESHOLD = 80  # 80% full
